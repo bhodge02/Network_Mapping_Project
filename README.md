@@ -66,9 +66,8 @@ Detailed service scans showed standard internal protocols like SMB and WinRM on 
 ## Learning Outcome
 This project improved understanding of:
 - Host discovery and port enumeration  
-- Network visibility and device identification  
-- How Nmap is used in NOC environments for health and uptime checks  
-
+- Network visibility and device identification
+  
 ---
 
 ## Author
