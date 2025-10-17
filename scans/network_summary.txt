@@ -1,0 +1,10 @@
+| IP Address        | Hostname                    | Device Type      | Open Ports          | Services / Versions        | Notes                   |
+| ----------------- | --------------------------- | ---------------- | ------------------- | -------------------------- | ----------------------- |
+| **192.168.1.1**   | router.home.local           | Router / Gateway | 53, 443, 5000       | DNS, HTTPS, UPnP           | Main network router     |
+| **192.168.1.177** | DESKTOP-SBEFN18.home.local  | Windows PC       | 135, 139, 445, 5985 | MSRPC, NetBIOS, SMB, WinRM | Local workstation       |
+| **192.168.1.183** | RokuExpress.home.local      | IoT Device       | 7000                | RTSP (AirPlay)             | Roku streaming device   |
+| **192.168.1.104** | SRWDJ0FPPAT.home.local      | Laptop           | —                   | —                          | Active host (ping only) |
+| **192.168.1.126** | HPIAA7F3E.home.local        | HP Printer       | —                   | —                          | Discovered via ping     |
+| **192.168.1.130** | Galaxy-S25-Ultra.home.local | Mobile Device    | —                   | —                          | Android phone           |
+| **192.168.1.175** | Pixel-8-Pro.home.local      | Mobile Device    | —                   | —                          | Google Pixel            |
+| **192.168.1.210** | XBOX.home.local             | Game Console     | —                   | —                          | Xbox console            |

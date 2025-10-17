@@ -1,0 +1,37 @@
+# Nmap 7.98 scan initiated Fri Oct 17 15:39:36 2025 as: nmap -sn -oN discovery_scan.txt 192.168.1.0/24
+Nmap scan report for router.home.local (192.168.1.1)
+Host is up (0.0043s latency).
+MAC Address: 4C:43:41:1E:0A:E0 (Calix)
+Nmap scan report for SRWDJ0FPPAT.home.local (192.168.1.104)
+Host is up (0.0030s latency).
+MAC Address: 90:2E:16:B5:64:2F (LCFC(Hefei) Electronics Technology)
+Nmap scan report for Cosori-Airfryer.home.local (192.168.1.118)
+Host is up (0.071s latency).
+MAC Address: C0:5D:89:B5:DF:50 (Espressif)
+Nmap scan report for HPIAA7F3E.home.local (192.168.1.126)
+Host is up (0.096s latency).
+MAC Address: 28:C5:C8:AA:7F:3E (HP)
+Nmap scan report for Galaxy-S25-Ultra.home.local (192.168.1.130)
+Host is up (0.10s latency).
+MAC Address: 96:5A:47:30:5A:91 (Unknown)
+Nmap scan report for Pixel-8-Pro.home.local (192.168.1.175)
+Host is up (0.097s latency).
+MAC Address: 76:EC:0F:27:36:89 (Unknown)
+Nmap scan report for DESKTOP-SBEFN18.home.local (192.168.1.177)
+Host is up (0.089s latency).
+MAC Address: F0:03:8C:34:A7:B3 (AzureWave Technology)
+Nmap scan report for SEP042AE2705238.home.local (192.168.1.178)
+Host is up (0.0030s latency).
+MAC Address: 04:2A:E2:70:52:38 (Cisco Systems)
+Nmap scan report for RokuExpress.home.local (192.168.1.183)
+Host is up (0.091s latency).
+MAC Address: D4:E2:2F:B5:D1:64 (Roku)
+Nmap scan report for XBOX.home.local (192.168.1.210)
+Host is up (0.029s latency).
+MAC Address: A8:8C:3E:AF:8D:DA (Microsoft)
+Nmap scan report for US231P-PSC-QLBD.home.local (192.168.1.228)
+Host is up (0.0040s latency).
+MAC Address: A4:BB:6D:AD:1F:F4 (Dell)
+Nmap scan report for DESKTOP-57FT8D5.home.local (192.168.1.107)
+Host is up.
+# Nmap done at Fri Oct 17 15:39:39 2025 -- 256 IP addresses (12 hosts up) scanned in 2.72 seconds
